@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/authentication">
+        <CheckBoxPreference
+            android:key="save_cookies_at_close"
+            android:summary="@string/save_cookies_at_close"
+            android:title="@string/cookies" />
+    </PreferenceCategory>
+</PreferenceScreen>

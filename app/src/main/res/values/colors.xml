@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#252529</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="windowBackground">#19191C</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="textColorSecondary">#FFFFFF</color>
+    <color name="colorAccent">#FFC34A</color>
+
+    <color name="buttonPressed">#6C6C73</color>
+    <color name="buttonUnpressed">#252529</color>
+
+    <integer-array name="gplus_colors">
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_2</item>
+        <item>@color/gplus_color_3</item>
+        <item>@color/gplus_color_4</item>
+    </integer-array>
+
+    <color name="gplus_color_1">#3e802f</color>
+    <color name="gplus_color_2">#f4b400</color>
+    <color name="gplus_color_3">#427fed</color>
+    <color name="gplus_color_4">#b23424</color>
+
+    <!-- MaterialDrawer DEFAULT colors -->
+    <color name="material_drawer_background">#F637373A</color>
+    <!-- Material DEFAULT text / items colors -->
+    <color name="material_drawer_primary_text">#CCCCCC</color>
+    <color name="material_drawer_primary_icon">#CCCCCC</color>
+    <color name="material_drawer_secondary_text">#CCCCCC</color>
+    <color name="material_drawer_hint_text">#42000000</color>
+    <color name="material_drawer_divider">#1F000000</color>
+    <!-- Material DEFAULT drawer colors -->
+    <color name="material_drawer_selected">#00000000</color>
+    <color name="material_drawer_selected_text">#FFC34A</color>
+    <color name="material_drawer_header_selection_text">#FFF</color>
+
+</resources>
